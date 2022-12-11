@@ -28,7 +28,7 @@ git clone git@github.com:RahulSanodia/Amazon-clone.git
 Now, cd Amazon-clone/ and before to start, you need to install the dependencies:
 
 ```
-npm install
+npm i
 ```
 
 or
